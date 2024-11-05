@@ -79,6 +79,7 @@
   
   tr:hover {
     background-color: #f5f5f5;
+    color: #007BFF; /* Cambia este color al que prefieras */
   }
   
   .selected-movie {
